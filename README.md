@@ -67,4 +67,4 @@ This project showcases the following capabilities relevant to data analytics and
 - Exploratory analysis, statistical reasoning, and interpretation  
 - Translating complex data into actionable business insights  
 - Proficiency in Python and key data science libraries  
-- Ability to communicate findings to technical and business stakeholders  
+- Ability to communicate findings to technical and business stakeholders.
